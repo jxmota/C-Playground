@@ -1,2 +1,2 @@
 # C-Playground
-Personal studies for the C laguange. 
+These are my personal studies for the C laguange. 
