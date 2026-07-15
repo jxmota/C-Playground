@@ -11,5 +11,7 @@ program1.c - The program we want to compile
 -o program1 - This allows us to choose the name we want for our program, so for example: "-o BatataFritas" means our exc. file will be called BatatFritas.out
               Otherwise, if we just write gcc program1.c the exc. file will just be called a.out
 
+-c - To create a exc. file with that use multiple programs this is required (to do later)
+
 For bigger programs there is also the make file (to do later)
 make program31

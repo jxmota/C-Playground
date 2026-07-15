@@ -7,7 +7,8 @@
     It also isn't C, that's why it doesn't end in ;
 */
 #include <stdio.h> // "stdio" means "standard input/output"
-main(){
+// main is where all programs start in C, we need to write void main to avoid warning (learn why later)
+void main(){
     printf("Hello World"); // Writes a string "Hello world" using the fuction printf
     // We can write the same thing this way too, by summoning the string with multiple times
     printf("||Hello");
