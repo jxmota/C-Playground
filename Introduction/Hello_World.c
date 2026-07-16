@@ -14,4 +14,21 @@ void main(){
     printf("||Hello");
     printf(" ");
     printf("World");
+
+    printf("\nTo change lines we use \\n meaning 'new line'\n");
+    printf("Está um dia \n \"LINDO LÁ FORA\"\n"); // The way to write "" without causing an error, is to write \"
+    printf("\t haloo\v hi\n teehee\n");
+
+    /*
+        \n Newline
+        \b Backspace
+        \\ How to write \
+        \" How to write "
+        \' How to write '
+        \? How to write ?
+        %% How to write %
+        \t Horizontal table
+        \v Vertical table
+    */
+
 }
